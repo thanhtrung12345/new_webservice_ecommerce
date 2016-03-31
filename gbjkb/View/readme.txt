@@ -1,0 +1,1 @@
+View ? ðây có ch?c nãng ð?y d? li?u ra thay v? hi?n th?. Ð?u ra t?i service chính là Model c?a clien.
