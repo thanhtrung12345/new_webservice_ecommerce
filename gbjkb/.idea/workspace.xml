@@ -4,7 +4,10 @@
     <list default="true" id="3196c164-b9d7-4de4-8948-b68758e15f5e" name="Default" comment="" />
     <ignored path="gbjkb.iws" />
     <ignored path=".idea/workspace.xml" />
+<<<<<<< HEAD
+=======
     <ignored path=".idea/dataSources.local.xml" />
+>>>>>>> refs/remotes/origin/master
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +26,7 @@
   <component name="FileEditorManager">
     <leaf>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="test" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/View/test">
           <provider selected="true" editor-type-id="text-editor">
@@ -38,6 +42,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+=======
+      <file leaf-file-name="trung" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/View/trung">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+>>>>>>> refs/remotes/origin/master
 =======
       <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/View/readme.txt">
@@ -56,6 +67,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/View/test" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/View/trung" />
+=======
+>>>>>>> refs/remotes/origin/master
       </list>
     </option>
   </component>
@@ -70,6 +85,16 @@
   <component name="PhpServers">
     <servers />
   </component>
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
+=======
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1924" />
+    <option name="height" value="1084" />
 =======
 >>>>>>> refs/remotes/origin/master
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
@@ -78,6 +103,7 @@
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
+>>>>>>> refs/remotes/origin/master
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -103,8 +129,12 @@
     </navigator>
     <panes>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pane id="Scope" />
 =======
+>>>>>>> refs/remotes/origin/master
+=======
+      <pane id="Scope" />
 >>>>>>> refs/remotes/origin/master
       <pane id="ProjectPane">
         <subPane>
@@ -159,10 +189,20 @@
         </subPane>
       </pane>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <pane id="Scope" />
+=======
+<<<<<<< HEAD
+      <pane id="Scratches" />
+      <pane id="Scope" />
+=======
+      <pane id="Scope" />
+=======
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
       <pane id="Scratches" />
+>>>>>>> refs/remotes/origin/master
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,6 +258,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="-8" y="-8" width="1924" height="1084" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
 <<<<<<< HEAD
     <editor active="false" />
@@ -269,7 +316,16 @@
   </component>
   <component name="editorHistoryManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/View/test">
+=======
+    <entry file="file://$PROJECT_DIR$/View/trung">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+=======
+    <entry file="file://$PROJECT_DIR$/View/readme.txt">
+>>>>>>> refs/remotes/origin/master
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
